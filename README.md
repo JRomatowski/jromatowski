@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello!  My name is Josh Romatowski.</h1>
-<h2 align="center">Software Engineer // Flutist</h2>
+<h1 align="center">:smile: Hello!  My name is Josh Romatowski.</h1>
+<h2 align="center">:hammer:Software Engineer :musical_score:   Flutist  </h2>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-I have enjoyed a varied, exciting career as a flute instructor and performing artist in Seattle for the past 10 years! If I am not teaching flute lessons or preparing for my next performance, I am watching movies, enjoying the rainy Seattle weather, or contemplating high art with my two cats!
+I have enjoyed a varied, exciting career as a flute instructor and performing artist in Seattle for the past 10 years! If I am not teaching flute lessons or preparing for my next performance, I am watching movies, enjoying the rainy Seattle weather, or contemplating high art with my two cats! :cat2::cat2:
 
 I have been teaching flute lessons and performing as my main source of income since high school. What I enjoyed most about this career was connecting with students and audiences and sharing how deeply I feel about music with all of them! 
 
