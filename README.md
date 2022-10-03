@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello!  My name is Josh Romatowski.</h1>
+<h2 align="center">Hello!  My name is Josh Romatowski.</h2>
 
 <h2 align="center">Software Engineer // Flutist</h2>
 
