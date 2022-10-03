@@ -3,7 +3,6 @@
 
 <h2 align="center">Software Engineer // Flutist</h2>
 
-
 <div align="center">
 
 🌍  I'm based in Seattle, WA
@@ -51,15 +50,13 @@ I enrolled in General Assembly’s Software Engineering Immersive course and am 
 
 <div align="center">
 
-<a href="https://github.com/JRomatowski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joshuaromatowski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://github.com/JRomatowski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joshuaromatowski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/JoshuaRomatowski/featured" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
 
-<a href="https://www.youtube.com/c/JoshuaRomatowski/featured" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
-
-</div>
+</div><br>
 
 <div align="center">
 
-<b>My GitHub Stats</b>
+<h1 align="center">My GitHub Stats</h1>
 
 <a href="https://github.com/JRomatowski"><img src="https://github-readme-stats.vercel.app/api?username=jromatowski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jromatowski's GitHub stats" /></a>
 
