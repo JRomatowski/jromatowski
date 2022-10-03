@@ -55,7 +55,7 @@ I enrolled in General Assembly’s Software Engineering Immersive course and am 
 
 <div align="center">
 
-<h1 align="center">My GitHub Stats</h1>
+<h2 align="center">My GitHub Stats</h2>
 
 <a href="https://github.com/JRomatowski"><img src="https://github-readme-stats.vercel.app/api?username=jromatowski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jromatowski's GitHub stats" /></a>
 
