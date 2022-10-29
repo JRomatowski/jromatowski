@@ -1,5 +1,5 @@
 
-<h1 align="center">:smile: Hello!  My name is Josh Romatowski.</h1>
+<h1 align="center">Hello!  My name is Josh Romatowski.</h1>
 <h2 align="center">:hammer:Software Engineer :musical_score:   Flutist  </h2>
 
 <div align="center">
@@ -14,13 +14,11 @@
 
 <div align="center">
 
-I have enjoyed a varied, exciting career as a flute instructor and performing artist in Seattle for the past 10 years! If I am not teaching flute lessons or preparing for my next performance, I am watching movies, enjoying the rainy Seattle weather, or contemplating high art with my two cats! :cat2::cat2:
+I have enjoyed a varied, exciting career as a flute instructor and performing artist in Seattle for the past 10 years. If I am not teaching flute lessons or preparing for my next performance, I am going on small hikess with my wife and enjoying the rainy Seattle weather.
 
-I have been teaching flute lessons and performing as my main source of income since high school. What I enjoyed most about this career was connecting with students and audiences and sharing how deeply I feel about music with all of them! 
+I have been teaching flute lessons and performing as my main source of income since high school. What I enjoyed most about this career was connecting with students and audiences and sharing how deeply I feel about music with all of them.
 
-I realized during lockdown that I wanted to pursue new opportunities through software engineering to connect with new people. Knowing I needed strong guidance to make this possible, I took the next necessary step.
-
-I enrolled in General Assembly’s Software Engineering Immersive course and am looking forward to working hard and dedicating myself to this craft. My goal is to take the skills I learn and use them to continue expressing and connecting with new and exciting audiences!
+I realized during lockdown that I wanted to pursue new opportunities through software engineering to connect with new people. I enrolled in General Assembly’s Software Engineering Immersive course and am looking forward to working hard and dedicating myself to this craft. My goal is to take the skills I learn and use them to continue  connecting with new audiences!
 
 </div>
 
